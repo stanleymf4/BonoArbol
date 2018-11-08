@@ -1,4 +1,4 @@
-[{dpto:"SANTANDER", institucion: "ROBERTO GARCIA PENA", poblacion: "SISBEN", edad: "16"},
+{dpto:"SANTANDER", institucion: "ROBERTO GARCIA PENA", poblacion: "SISBEN", edad: "16"},
 {dpto:"META", institucion: "IE JORGE ELIECER GAITAN", poblacion: "DESPLAZADOS", edad: "12"},
 {dpto:"TOLIMA", institucion: "INSTITUCION EDUCATIVA DOIMA", poblacion: "SISBEN", edad: "9"},
 {dpto:"TOLIMA", institucion: "INSTITUCION EDUCATIVA DOIMA", poblacion: "SISBEN", edad: "12"},
@@ -686,4 +686,4 @@
 {dpto:"META", institucion: "IE JORGE ELIECER GAITAN", poblacion: "DESPLAZADOS", edad: "9"},
 {dpto:"META", institucion: "IE DIVINO NINO JESUS", poblacion: "DESPLAZADOS", edad: "9"},
 {dpto:"META", institucion: "IE JORGE ELIECER GAITAN", poblacion: "DESPLAZADOS", edad: "6"},
-{dpto:"META", institucion: "IE JORGE ELIECER GAITAN", poblacion: "DESPLAZADOS", edad: "5"}]
+{dpto:"META", institucion: "IE JORGE ELIECER GAITAN", poblacion: "DESPLAZADOS", edad: "5"}
