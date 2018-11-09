@@ -12,19 +12,24 @@
    <script src="https://d3js.org/d3-color.v1.min.js"></script>
    <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   </head>
   <body>
-      <h1> Beneficiarios Familiar en Acción Educación - Inclusió social y Reconciliación </h1>
+      <h1> Programas de Maestrias y su Participación Deportiva  </h1>
       <h3> Bono arbol, Maestría en Ingeniería de Información - Stanley Melo Fontalvo (ss.melo@uniandes.edu.co) </h3>
-      <p>Datos obtenidos en datos abiertos colombia:  <a href="https://www.datos.gov.co/Inclusi-n-Social-y-Reconciliaci-n/Beneficiarios-Familias-En-Accion-Educacion/kijw-bzpy">Enlace de datos</a>
+      <h3> Esta visualización contiene la relacion entre los programas de maestrias de la Facultad de Ingeniería, y <br>
+          los cursos de deportes inscritos por los estudiantes que reflejan la participación deportiva de cada programa. </h3>
+      <p>Datos obtenidos de inscripión de cursos de deportes para estuidnates de la Universidad de los Andes</a>
       </p>
 
-      <svg width="1000"
-           height="500"
-           id="arbol">
-      </svg>
 
-      <script src="js/log_net.js"></script>
+<svg width="960" height="2400"></svg>
+      <form>
+        <label><input type="radio" name="mode" value="cluster" checked> Dendrogram</label>
+        <label><input type="radio" name="mode" value="tree"> Tree</label>
+      </form>
+      
+      <script src="js/log_tree.js"></script>
   </body>
 </html>
