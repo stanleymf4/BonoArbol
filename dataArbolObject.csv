@@ -1,89 +1,156 @@
 id,value,color
-Bogota,
-Bogota.Barrios Unidos,
-Bogota.Barrios Unidos.El Rosario,39,#808080
-Bogota.Barrios Unidos.Floresta,30,#8c6eb3
-Bogota.Barrios Unidos.La Castellana,5,#E54F24
-Bogota.Barrios Unidos.Los Andes,5,#FF9900
-Bogota.Barrios Unidos.Parque Popular Salitre,6,#8c6eb3
-Bogota.Bosa,
-Bogota.Bosa.Bosa,11,#D6BA33
-Bogota.Bosa.El Recreo,10,#F6854D
-Bogota.Bosa.El Retazo,12,#617CBE
-Bogota.Bosa.Esperanza,11,#0073AD
-Bogota.Bosa.San Bernandino XVI,33,#E58E00
-Bogota.Bosa.Villa del Río,11,#EB2C2F
-Bogota.Chapinero,
-Bogota.Chapinero.Antiguo Country,8,#EB2C2F
-Bogota.Chapinero.Chapinero Central,10,#808080
-Bogota.Chapinero.Chapinero Norte,37,#0073AD
-Bogota.Chapinero.Chico Norte,11,#E58E00
-Bogota.Chapinero.La Porciúncula,13,#6DB33F
-Bogota.Chapinero.Quinta Camacho,11,#617CBE
-Bogota.Ciudad Bolivar,
-Bogota.Ciudad Bolivar.Arborizadora Baja,31,#005F0F
-Bogota.Ciudad Bolivar.Barlovento,12,#00618A
-Bogota.Ciudad Bolivar.Candelaria La Nueva,24,#808080
-Bogota.Ciudad Bolivar.María Cano,27,#d63a3a
-Bogota.Ciudad Bolivar.Sierra Morena,6,#CA212F
-Bogota.Engativá,
-Bogota.Engativá.Jardín Botánico,84,#00A0D2
-Bogota.Fontibón,
-Bogota.Fontibón.Aeropuerto El Dorado,5,#0678BE
-Bogota.Fontibón.Ciudad Salitre,10,#808080
-Bogota.Fontibón.Ciudad Salitre Occidental,16,#8c6eb3
-Bogota.Fontibón.El Porvenir,9,#E54F24
-Bogota.Fontibón.Fontibón,5,#FF9900
-Bogota.Fontibón.La Esperanza Norte,8,#8c6eb3
-Bogota.Fontibón.La Felicidad,18,#D6BA33
-Bogota.Fontibón.Terminal de Transporte,20,#1169AE
-Bogota.Kennedy,
-Bogota.Kennedy.Ciudad Kennedy Norte,6,#F6854D
-Bogota.Kennedy.Hipodromo Techo II,9,#617CBE
-Bogota.Kennedy.Hipotecho Occidental,74,#0073AD
-Bogota.Candelaria,
-Bogota.Candelaria.Centro Administrativo,59,#E58E00
-Bogota.Candelaria.Girardot,20,#EB2C2F
-Bogota.Candelaria.La Catedral,10,#59666C
-Bogota.Puente Aranda,
-Bogota.Puente Aranda.Centro Nariño,5,#E58E00
-Bogota.Puente Aranda.Corferias,11,#5FA134
-Bogota.Puente Aranda.Industrial Centenario,40,#8c6eb3
-Bogota.Puente Aranda.La Florida Occidental,10,#00618A
-Bogota.Puente Aranda.Milenta,5,#d63a3a
-Bogota.Puente Aranda.Quinta Paredes,13,#CA212F
-Bogota.Rafael Uribe Uribe,
-Bogota.Rafael Uribe Uribe.Olaya,90,#00A0D2
-Bogota.San Cristobal,
-Bogota.San Cristobal.20 de Julio,27,#0678BE
-Bogota.San Cristobal.Granada Sur,53,#808080
-Bogota.San Cristobal.La Colmenta,7,#8c6eb3
-Bogota.San Cristobal.San Blas,14,#E54F24
-Bogota.Santa Fe,
-Bogota.Santa Fe.Girardot,6,#FF9900
-Bogota.Santa Fe.Las Nieves,39,#8c6eb3
-Bogota.Santa Fe.Parque Nacional,20,#D6BA33
-Bogota.Santa Fe.Sagrado Corazón,19,#F6854D
-Bogota.Santa Fe.San Diego,14,#617CBE
-Bogota.Suba,
-Bogota.Suba.Casa Blanca,18,#0073AD
-Bogota.Suba.Mazuren,8,#E58E00
-Bogota.Suba.San José V Sector,57,#EB2C2F
-Bogota.Teusaquillo,
-Bogota.Teusaquillo.Campín,31,#59666C
-Bogota.Teusaquillo.Campo Eucarístico,41,#6DB33F
-Bogota.Teusaquillo.Centro Nariño,6,#5FA134
-Bogota.Tunjuelito,
-Bogota.Tunjuelito.Parque El Tunal,95,#00A0D2
-Bogota.Usaquen,
-Bogota.Usaquen.ASD,23,#00618A
-Bogota.Usaquen.Parque Deportivo,5,#d63a3a
-Bogota.Usaquen.Santa Ana,6,#CA212F
-Bogota.Usaquen.Santa Bibiana,6,#00A0D2
-Bogota.Usaquen.Torca,30,#0678BE
-Bogota.Usaquen.Verbenal,7,#808080
-Bogota.Usme,
-Bogota.Usme.La Aurora,40,#8c6eb3
-Bogota.Usme.La Fiscala,34,#E54F24
-Bogota.Usme.Santa Marta,8,#FF9900
-Bogota.Usme.Usme Pueblo,17,#8c6eb3
+Maestrias,
+Maestrias.Maest.Ingenieria De Petroleos,
+Maestrias.Maest.Ingenieria De Petroleos.Golf,39,#808080
+Maestrias.Maestr Ingenier.De Informacion,
+Maestrias.Maestr Ingenier.De Informacion.Afro -  Fusion,11,#D6BA33
+Maestrias.Maestr Ingenier.De Informacion.Salsa,10,#F6854D
+Maestrias.Maestr Ingenier.De Informacion.Tenis De Mesa,12,#617CBE
+Maestrias.Maestr Ingenier.De Informacion.Seleccion De Tenis De Mesa,11,#0073AD
+Maestrias.Maestr. Seguridad Informacion,
+Maestrias.Maestr. Seguridad Informacion.Futbol,8,#EB2C2F
+Maestrias.Maestr. Seguridad Informacion.Seleccion Futbol Sala,10,#808080
+Maestrias.Maestr. Seguridad Informacion.Baloncesto,37,#0073AD
+Maestrias.Maestr. Seguridad Informacion.Tenis De Mesa,11,#E58E00
+Maestrias.Maestr. Seguridad Informacion.Tenis De Campo,13,#6DB33F
+Maestrias.Maestr. Seguridad Informacion.Salsa,11,#617CBE
+Maestrias.Maestr. Seguridad Informacion.Kickboxing,11,#617CBE
+Maestrias.Maestr. Seguridad Informacion.Curso Futsala,11,#617CBE
+Maestrias.Maestr. Seguridad Informacion.Abdomen De Impacto,11,#617CBE
+Maestrias.Maestr.Tecnolog.Informac.Negoc,
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Seleccion Futbol Sala,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Futbol,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Salsa,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Tenis De Campo,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Natacion,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Entrenamiento Total,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Baloncesto,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Squash Intermedio,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Rumba Aerobica,84,#00A0D2
+Maestrias.Maestr.Tecnolog.Informac.Negoc.Frisbee Ultimate,84,#00A0D2
+Maestrias.Maestria En Arquitecturas Ti,
+Maestrias.Maestria En Arquitecturas Ti.Billar,5,#0678BE
+Maestrias.Maestria En Arquitecturas Ti.Rumba Aerobica,10,#808080
+Maestrias.Maestria En Arquitecturas Ti.Salsa,16,#8c6eb3
+Maestrias.Maestria En Arquitecturas Ti.Tenis De Mesa,9,#E54F24
+Maestrias.Maestria En Arquitecturas Ti.Futbol,5,#FF9900
+Maestrias.Maestria En Arquitecturas Ti.Abdomen De Impacto,8,#8c6eb3
+
+
+
+
+Maestrias.Maestria En Ing. Biomedica,
+Maestrias.Maestria En Ing. Biomedica.Tenis De Campo,6,#F6854D
+Maestrias.Maestria En Ing. Biomedica.Danza Urbana,9,#617CBE
+Maestrias.Maestria En Ing. Biomedica.Tenis De Mesa,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Natacion,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Entrenamiento Total,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Rumba Aerobica,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Seleccion Baloncesto,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Salsa,74,#0073AD
+Maestrias.Maestria En Ing. Biomedica.Power Yoga,74,#0073AD
+
+
+
+Maestrias.Maestria En Ing.Civil,
+Maestrias.Maestria En Ing.Civil.Softbol,59,#E58E00
+Maestrias.Maestria En Ing.Civil.Rumba Aerobica,20,#EB2C2F
+Maestrias.Maestria En Ing.Civil.Cuerpo Total,10,#59666C
+Maestrias.Maestria En Ing.Civil.Golf,10,#59666C
+Maestrias.Maestria En Ing.Civil.Tenis De Mesa,10,#59666C
+Maestrias.Maestria En Ing.Civil.Entrenamiento Total,10,#59666C
+Maestrias.Maestria En Ing.Civil.Abdomen De Impacto,10,#59666C
+Maestrias.Maestria En Ing.Civil.Pilates,10,#59666C
+Maestrias.Maestria En Ing.Civil.Salsa,10,#59666C
+Maestrias.Maestria En Ing.Civil.Kickboxing,10,#59666C
+Maestrias.Maestria En Ing.Civil.Atletismo,10,#59666C
+Maestrias.Maestria En Ing.Civil.Curso Futsala,10,#59666C
+Maestrias.Maestria En Ing.Civil.Natacion,10,#59666C
+Maestrias.Maestria En Ing.Civil.Frisbee Ultimate,10,#59666C
+
+
+
+Maestrias.Maestria En Ing.Electrica,
+Maestrias.Maestria En Ing.Electrica.Natacion,5,#E58E00
+Maestrias.Maestria En Ing.Electrica.Kickboxing,11,#5FA134
+Maestrias.Maestria En Ing.Electrica.Escalada En Muro Intermedio,40,#8c6eb3
+Maestrias.Maestria En Ing.Electrica.Billar,10,#00618A
+Maestrias.Maestria En Ing.Electrica.Natacion,5,#d63a3a
+Maestrias.Maestria En Ing.Electrica.Defensa Personal,13,#CA212F
+
+
+
+Maestrias.Maestria En Ing.Electronica,
+Maestrias.Maestria En Ing.Electronica.Kung Fu,90,#00A0D2
+Maestrias.Maestria En Ing.Electronica.Power Yoga,90,#00A0D2
+Maestrias.Maestria En Ing.Electronica.Entrenamiento Militar,90,#00A0D2
+
+
+
+Maestrias.Maestria En Ing.Industrial,
+Maestrias.Maestria En Ing.Industrial.Curso Futsala,27,#0678BE
+Maestrias.Maestria En Ing.Industrial.Baloncesto,53,#808080
+Maestrias.Maestria En Ing.Industrial.Seleccion Voleibol,7,#8c6eb3
+Maestrias.Maestria En Ing.Industrial.Seleccion Baloncesto,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Rumba Aerobica,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Abdomen De Impacto,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Golf,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Squash,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Tenis De Campo,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Seleccion De Ajedrez,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Stretching (Estiramiento),14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Danza Contemporanea,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Seleccion Frisbee Ultimate,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Natacion,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Squash Intermedio,14,#E54F24
+Maestrias.Maestria En Ing.Industrial.Danza De La India,14,#E54F24
+
+
+
+
+Maestrias.Maestria En Ing.Mecanica,
+Maestrias.Maestria En Ing.Mecanica.Natacion,6,#FF9900
+Maestrias.Maestria En Ing.Mecanica.Tenis De Campo,39,#8c6eb3
+Maestrias.Maestria En Ing.Mecanica.Seleccion Voleibol Arena,20,#D6BA33
+Maestrias.Maestria En Ing.Mecanica.Seleccion Baloncesto,19,#F6854D
+Maestrias.Maestria En Ing.Mecanica.Taekwondo Itf,14,#617CBE
+Maestrias.Maestria En Ing.Mecanica.Kickboxing,14,#617CBE
+Maestrias.Maestria En Ing.Mecanica.Yoga,14,#617CBE
+Maestrias.Maestria En Ing.Mecanica.Tai-Chi,14,#617CBE
+
+
+
+Maestrias.Maestria En Ing.Sistemas Ycomp,
+Maestrias.Maestria En Ing.Sistemas Ycomp.Atletismo,18,#0073AD
+Maestrias.Maestria En Ing.Sistemas Ycomp.Danza Urbana,8,#E58E00
+Maestrias.Maestria En Ing.Sistemas Ycomp.Tenis De Campo,57,#EB2C2F
+
+Maestrias.Maestria En Ingen. Ambiental,
+Maestrias.Maestria En Ingen. Ambiental.Entrenamiento Total,31,#59666C
+Maestrias.Maestria En Ingen. Ambiental.Baloncesto,41,#6DB33F
+Maestrias.Maestria En Ingen. Ambiental.Seleccion Baloncesto,6,#5FA134
+Maestrias.Maestria En Ingen. Ambiental.Futbol,6,#5FA134
+Maestrias.Maestria En Ingen. Ambiental.Atletismo,6,#5FA134
+Maestrias.Maestria En Ingen. Ambiental.Squash Intermedio,6,#5FA134
+Maestrias.Maestria En Ingen. Ambiental.Curso Futsala,6,#5FA134
+Maestrias.Maestria En Ingen. Ambiental.Seleccion Futbol Sala,6,#5FA134
+
+
+Maestrias.Maestria En Ingenieria Quimica,
+Maestrias.Maestria En Ingenieria Quimica.Yoga,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Abdomen De Impacto,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Pilates,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Frisbee Ultimate,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Kickboxing,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Flag Football Mixto,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Natacion,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Tenis De Campo,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Danza Contemporanea,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Frisbee Ultimate,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Seleccion De Squash,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Seleccion Futbol,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Kung Fu,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Cuerpo Total,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Afro -  Fusion,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Softbol,95,#00A0D2
+Maestrias.Maestria En Ingenieria Quimica.Natacion,95,#00A0D2
